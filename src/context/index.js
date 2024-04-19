@@ -52,7 +52,7 @@ const MyProvider = ({ children }) => {
     };
 
     const getPayee = () => {
-        if (players && players.length > 2) {
+        if (players && players.length >= 2) {
             const payee = players[Math.floor(Math.random() * players.length)];
             setResult(payee);
         }
