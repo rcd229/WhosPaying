@@ -15,7 +15,7 @@ const Home = () => {
     const { players, addPlayer, removePlayer, whosPaying } = useContext(MyContext);
 
     const renderPlayers = () => (
-        <ScrollView style={{ maxHeight: 200 }}>
+        <ScrollView style={{ maxHeight: 230 }}>
             {
                 players.map((player, i) => {
                     return (
