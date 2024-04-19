@@ -63,8 +63,8 @@ const MyProvider = ({ children }) => {
     }
 
     const startOverHandler = () => {
-        setPlayers("");
-        setResult([]);
+        setPlayers([]);
+        setResult("");
         setStage("Home");
     };
 
