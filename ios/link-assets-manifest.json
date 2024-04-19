@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Comfortaa-VariableFont_wght.ttf",
+      "sha1": "89d13684a897ae7ca4dae157eb05000db6b3e6c8"
+    },
+    {
+      "path": "src/assets/fonts/Comfortaa.zip",
+      "sha1": "c8c9ce48947802c72447d9511bee48f3f4c81b50"
+    },
+    {
+      "path": "src/assets/fonts/Pacifico-Regular.ttf",
+      "sha1": "baca1fca7fe74b61cb33aa0da48ec1a3a77bcf49"
+    },
+    {
+      "path": "src/assets/fonts/Quicksand-VariableFont_wght.ttf",
+      "sha1": "17fb514f853cfeb7176a384fa29358e9c4b76c39"
+    }
+  ]
+}
